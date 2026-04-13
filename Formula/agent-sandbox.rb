@@ -1,8 +1,8 @@
 class AgentSandbox < Formula
   desc "Run AI coding agents inside Docker containers for security isolation"
   homepage "https://github.com/zigotica/agent-sandbox"
-  url "https://github.com/zigotica/agent-sandbox/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "PLACEHOLDER_WILL_BE_UPDATED_BY_CI"
+  url "https://github.com/zigotica/agent-sandbox/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "d9d5da354476c335d8de25e93d058a4fe1240eec98aae30390d0a66977f77830"
   license "MIT"
 
   depends_on "jq"
